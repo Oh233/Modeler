@@ -191,8 +191,8 @@ void Camera::lookAt(Vec3f eye, Vec3f at, Vec3f up)
 				mLookAt[0],   mLookAt[1],   mLookAt[2],
 				mUpVector[0], mUpVector[1], mUpVector[2]);*/
 
-	Vec3f 
-
+	
+	Vec3f
 }
 
 #pragma warning(pop)
